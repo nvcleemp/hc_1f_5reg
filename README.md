@@ -1,7 +1,7 @@
 Hamiltonian cycles and 1-factors in 5-regular graphs
 ====================================================
 
-This repository gives an overview of different scripts and their results used to obtain the computational results from the paper _Hamiltonian cycles and 1-factors in 5-regular graphs_.
+This repository gives an overview of different scripts and their results used to obtain the computational results from the paper _Hamiltonian cycles and 1-factors in 5-regular graphs_ ([https://doi.org/10.1016/j.jctb.2021.12.008](https://doi.org/10.1016/j.jctb.2021.12.008)).
 
 The scripts in this repository make extensive use of programs from different other repositories:
 
